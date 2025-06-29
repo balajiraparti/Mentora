@@ -54,16 +54,17 @@ npm install
 
 
 
-```
+``` 
     
 ## Run
 In the project directory, you can run:
 
 ```bash
 npm start
+```
 
 ## Credit
 
-This project proudly uses Voice AI Assistant technology powered by Omnidim.io.
+This project proudly uses Voice AI Assistant technology powered by [Omnidim.io](https://www.omnidim.io/agents).
 
 Create and manage your own voice AI agents using their intuitive platform for seamless integration and voice-first applications.
